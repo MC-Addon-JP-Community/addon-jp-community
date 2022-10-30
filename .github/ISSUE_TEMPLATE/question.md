@@ -1,6 +1,6 @@
 ---
-name: Question
-about: 書籍に関する質問をする
+name: 質問
+about: 内容に関する質問をする
 
 ---
 
