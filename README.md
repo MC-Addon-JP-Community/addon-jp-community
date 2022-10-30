@@ -1,6 +1,8 @@
 # addon-jp-community
 
-このリポジトリはDiscordコミュニティ「Minecraft日本アドオンコミュニティ」のリポジトリです．
+このリポジトリはDiscordコミュニティ「Minecraft日本アドオンコミュニティ」のリポジトリ用テンプレートです．
+
+新規リポジトリを作成する場合はこのテンプレートを使用してください
 
 Discordサーバーへの参加は[こちら](https://discord.gg/m4j5r6MHFg)から！
 
