@@ -1,7 +1,7 @@
 ---
 name: 機能の提案と要望
 about: 新しい機能の提案や要望をする
-
+labels: enhancement
 ---
 
 ## 該当ファイル
