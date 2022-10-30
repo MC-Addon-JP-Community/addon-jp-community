@@ -1,6 +1,7 @@
 ---
 name: 機能の提案と要望
 about: 新しい機能の提案や要望をする
+title: "req: [概要]"
 labels: enhancement
 ---
 
