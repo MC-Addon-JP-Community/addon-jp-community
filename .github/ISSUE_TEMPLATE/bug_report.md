@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: バグレポート
 about: エラーや問題について報告する
 
 ---
