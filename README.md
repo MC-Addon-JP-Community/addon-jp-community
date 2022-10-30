@@ -6,5 +6,6 @@ Discordサーバーへの参加は[こちら](https://discord.gg/m4j5r6MHFg)か�
 
 ## 貢献
 
-このリポジトリへの貢献は[貢献について](https://github.com/toka7290/addon-jp-community/blob/main/README.md)参照の上行ってください
+このリポジトリへの貢献は[貢献について](https://github.com/MC-Addon-JP-Community/addon-jp-community/blob/main/CONTRIBUTING.md)参照の上行ってください
+
 
