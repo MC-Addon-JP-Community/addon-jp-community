@@ -1,6 +1,7 @@
 ---
 name: バグレポート
 about: エラーや問題について報告する
+title: "bug: [FEATURE NAME]"
 labels: bug
 ---
 
