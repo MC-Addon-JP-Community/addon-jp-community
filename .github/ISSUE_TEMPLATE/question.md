@@ -1,7 +1,7 @@
 ---
 name: 内容への質問
 about: このリポジトリへ内の内容に関する質問をする
-title: "que: [概要]"
+title: "question: [概要]"
 labels: question
 ---
 
