@@ -5,9 +5,9 @@ title: "bug: [概要]"
 labels: bug
 ---
 
-## 該当ファイル
+## 該当ファイル(判明している場合)
 <!-- 
-ファイルのURLを書いてください
+ファイルのPathを書いてください
 例) addon-jp-community/CONTRIBUTING.md
  -->
 
