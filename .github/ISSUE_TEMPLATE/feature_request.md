@@ -5,11 +5,12 @@ title: "req: [概要]"
 labels: enhancement
 ---
 
-## 該当ファイル
+## 該当ファイル(特定のファイルの場合)
 <!-- 
-既存のファイルについての提案の場合，ファイルのURLを書いてください
-新規ファイルの場合は，この節を消してください
-例) addon-jp-community/CONTRIBUTING.md
+既存のファイルについての提案の場合，ファイルのPathを書いてください
+新規ファイルの場合は、この節を消してください
+例) 
+addon-jp-community/CONTRIBUTING.md
  -->
 
 ## リクエスト/提案内容
